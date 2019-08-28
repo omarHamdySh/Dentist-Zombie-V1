@@ -3,6 +3,7 @@ using UnitySampleAssets.CrossPlatformInput;
 
 namespace CompleteProject
 {
+
     public class PlayerMovement : MonoBehaviour
     {
         public float speed = 6f;            // The speed that the player will move at.

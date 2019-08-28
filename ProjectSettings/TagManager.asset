@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tooth
+  - ToothPaste
+  - ButtonLaser
+  - Test
+  - Enemy
+  - Teeth
   layers:
   - Default
   - TransparentFX
